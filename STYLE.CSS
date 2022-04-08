@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.maior {
+  width: 20%;
+  height: 100%;
+  position: fixed;
+  background-color:#0A58CA;
+  text-align: center;
+  
+}
+
+.botão :hover {
+  color: #000;
+}
+
+.botão {
+  margin-top: 70%;
+}
+
+.botão a {
+  text-align: center;
+  display: list-item;
+  margin-bottom: 5px;
+  text-decoration: none;
+  margin: 10px;
+  color: white;
+  font-family: italic;
+  font-size: 30px;
+  }
+
+  .botão img {
+    width: 70%;
+    border-radius: 50%;
+    border: 5px solid black;
+  }
+
+  /* SEGUNDA COLUNA */
+
+.menor{
+  width: 80%;
+  height: 100%;
+  position: fixed;
+  transform: translateX(25%);
+  
+}
+
+.Name{
+margin-left: 5%;
+margin-top: 15%;
+}
+
+.Name h1 {
+  font-size: 400%;
+  
+}
+
+.link {
+  font-size: 50px;
+}
+
+.blue {
+  margin-left: 5%;
+  margin-top: 15%;
+  line-height: 300px;
+}
+
+.blue span {
+  font-size: 70px;
+}
+
+.blue h2 {
+  line-height: 70px;
+}
+
+.blue h1{
+  line-height: 70px;
+}
+
+.learn {
+  margin-left: 5%;
+  margin-top: 15%;
+  }
+
+.learn h2{
+  line-height: 70px;
+}
+
+.learn h1{
+  font-size: 70px;
+}
